@@ -1,1 +1,3 @@
-# CSCI3308-01-lab3
+# CSCI3308-01-lab 3
+Team Members: 
+Evan Ketellapper
