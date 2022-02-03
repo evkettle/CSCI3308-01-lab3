@@ -2,6 +2,4 @@
 <<<<<<< HEAD
 Project Team Members:
 Kalvin
-=======
-Team Members:
->>>>>>> main
+
