@@ -1,4 +1,7 @@
-# CSCI3308-01-lab 3
-Team Members: 
+
+# CSCI3308-01-lab3
+Project Team Members:
+Kalvin
 Evan Ketellapper
 Paige Burns
+
